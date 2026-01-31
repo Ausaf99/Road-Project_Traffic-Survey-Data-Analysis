@@ -90,8 +90,7 @@ For each traffic direction, traffic volumes were aggregated for three time perio
 - OS
 - openpyxl
 - glob
-- Matplotlib / Seaborn  
-- Excel-based field survey data  
+- Matplotlib / Seaborn   
 
 ---
 
