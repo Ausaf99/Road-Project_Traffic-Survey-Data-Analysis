@@ -21,6 +21,7 @@ All analyses were carried out using **Python** in **Kaggle Notebook**.
 **Md. Ausaf Alam**  
 Lecturer
 Bangladesh Army University of Science and Technology, BAUST
+
 Assistant Engineer, GeoStruct Consultant Limited
 M.Sc. in Civil Engineering (Transportation)  
 Bangladesh University of Engineering and Technology (BUET)
@@ -116,3 +117,5 @@ For each traffic direction, traffic volumes were aggregated for three time perio
 ## Contact
 
 GitHub: **@Ausaf99**
+Kaggle: **https://www.kaggle.com/ausafalam**
+LinkedIn: **https://www.linkedin.com/in/ausaf-alam99/**
