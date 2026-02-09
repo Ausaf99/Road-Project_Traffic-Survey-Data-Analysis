@@ -19,6 +19,9 @@ All analyses were carried out using **Python** in **Kaggle Notebook**.
 ## Author
 
 **Md. Ausaf Alam**  
+Lecturer
+Bangladesh Army University of Science and Technology, BAUST
+Assistant Engineer, GeoStruct Consultant Limited
 M.Sc. in Civil Engineering (Transportation)  
 Bangladesh University of Engineering and Technology (BUET)
 
